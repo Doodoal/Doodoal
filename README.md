@@ -8,5 +8,5 @@
 
 💻 Python, Java
 # \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
-### _“Learning never exhausts the mind.”_
-#### _― Leonardo da Vinci_
+### _“The beautiful thing about learning is that nobody can take it away from you.”
+#### _― B.B. King_
