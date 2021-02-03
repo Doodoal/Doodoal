@@ -2,7 +2,7 @@
 
 📓 Absolute beginner
 
-🎗 She / Her
+👧 She / Her
 
 🎤 First Language : French
 
