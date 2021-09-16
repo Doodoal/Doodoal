@@ -1,6 +1,6 @@
 # \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
 
-📓 Absolute beginner
+📓 2nd Year Maths-CS Bsc
 
 🎤 First Language : French
 
