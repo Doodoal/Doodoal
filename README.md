@@ -1,6 +1,6 @@
 # \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
 
-📓 2nd Year Maths-CS Bsc
+📓 2nd Year Maths-CS
 
 🎤 First Language : French
 
