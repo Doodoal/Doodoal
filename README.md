@@ -2,7 +2,7 @@
 
 📓 2nd Year Maths-CS
 
-🎤 First Language : French
+🎤 French, English
 
 💻 Java, Golang, Python
 # \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
