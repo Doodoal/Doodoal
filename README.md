@@ -1,6 +1,29 @@
 
-📓 2nd Year Maths-CS
+📓 3rd Year Maths-CS (data science specialisation)
 
-🎤 French, English
+🎤 French, English 
 
-💻 Java, Golang, Python
+💻 Java, Php, CSS, Javascript, SQL, Python, R, Golang
+
+🗃️Experience in :
+
+  - Web development 
+  - Android Apps
+  - Database design
+
+⚙️Familiar with:
+  - React
+  - Firebase
+  - MySQL
+  - Jupyter Notebook 
+  - Numpy
+  - Altair
+  - Pandas
+
+❕Interested in:
+
+  UI/UX design, Machine learning 
+
+➗ Currently learning Probability and Statistics
+
+
