@@ -22,7 +22,8 @@
 
 ❕Interested in:
 
-  UI/UX design, Machine learning 
+  - UI/UX design
+  - Machine learning 
 
 ➗ Currently learning Probability and Statistics
 
