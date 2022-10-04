@@ -16,6 +16,7 @@
   - Firebase
   - MySQL
   - Jupyter Notebook 
+  - RStudio
   - Numpy
   - Altair
   - Pandas
