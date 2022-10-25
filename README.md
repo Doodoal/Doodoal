@@ -1,5 +1,5 @@
 
-📓 3rd Year Maths-CS (data science specialisation)
+📓 3rd Year in Data Science (Joints Honours Bsc in Maths and CS) 
 
 🎤 French, English 
 
