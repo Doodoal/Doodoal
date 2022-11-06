@@ -3,7 +3,7 @@
 
 🎤 French, English 
 
-💻 Java, Php, CSS, Javascript, SQL, Python, R, Golang
+💻 Java, Python, R, Golang, SQL, JavaScript, HTML, PHP, CSS, XML
 
 ➗ Currently learning Probability and Statistics
 
