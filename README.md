@@ -12,7 +12,6 @@
 ➗ Probability, Statistics, Linear algebra
 
 
-<br>
 
 🐍New Battlesnake player (You can find me [here](https://play.battlesnake.com/u/doodoal/) :D )
 
