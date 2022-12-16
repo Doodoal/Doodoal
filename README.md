@@ -5,7 +5,10 @@
 
 💻 Java, Python, R, Golang, SQL, JavaScript, HTML, PHP, CSS, XML
 
+>Android, Web dev, Data analysis
+
 ➗ Probability, Statistics, Linear algebra
+
 
 
 🐍New Battlesnake player (You can find me [here](https://play.battlesnake.com/u/doodoal/) :D )
