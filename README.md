@@ -12,6 +12,7 @@
 ➗ Probability, Statistics, Linear algebra
 
 
+
 <br>
 
 
@@ -21,5 +22,7 @@
 
 >Next step would be to make it smarter enough to not trap itself. Will I then name it Smarter Smarter Dummy?
 
+<br>
 
-You can contact me at  [yoffia@acm.org](mailto:yoffia@acm.org)
+📬You can contact me at [yoffia@acm.org](mailto:yoffia@acm.org)
+
