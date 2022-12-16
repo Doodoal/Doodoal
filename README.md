@@ -5,7 +5,9 @@
 
 💻 Java, Python, R, Golang, SQL, JavaScript, HTML, PHP, CSS, XML
 
->Android, Web dev, Data analysis
+>What did I do with all these languages?
+>
+>>Android, Web dev, Data analysis
 
 ➗ Probability, Statistics, Linear algebra
 
