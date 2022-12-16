@@ -7,7 +7,7 @@
 
 >What did I do with all these languages?
 >
->->Android, Web dev, Data science, Algorithm class projects
+>-> Android, Web dev, Data science, Algorithm class projects
 
 ➗ Probability, Statistics, Linear algebra
 
