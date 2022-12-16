@@ -22,4 +22,4 @@
 >Next step would be to make it smarter enough to not trap itself. Will I then name it Smarter Smarter Dummy?
 
 
-You can reach me out at  [yoffia@acm.org](mailto:yoffia@acm.org)
+You can contact me at  [yoffia@acm.org](mailto:yoffia@acm.org)
