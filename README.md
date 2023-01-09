@@ -18,6 +18,7 @@
 
 🐍New Battlesnake player (You can find me [here](https://play.battlesnake.com/u/doodoal) :D )
 
+> My main snake ([Smarter-Dummy](https://github.com/Doodoal/Smarter-dummy)) is hosted on Railway and built in Python
 
 <br>
 
