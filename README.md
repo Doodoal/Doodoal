@@ -5,9 +5,9 @@
 
 💻 Java, Python, R, Golang, SQL, JavaScript, HTML, PHP, CSS, XML
 
->What did I do with all these languages?
+>Mostly did:
 >
->-> Android, Web dev, Data science, Algorithm class projects
+>-> Android, Web dev, Data science and Algorithms class projects
 
 ➗ Probability, Statistics, Linear algebra
 
