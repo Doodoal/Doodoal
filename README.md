@@ -1,26 +1,14 @@
+ I'm a Data person who also loves to build things :D
 
-📓 3rd Year Data Science student (Joints Honours Bsc in Maths and CS) 
+-> Trying my hands at a bunch of different things right now.
+
+-> Mostly Data Science, ML, Product Design, SWE, Android and Web dev.
+
+***
+
+📓 4th Year Data Science student (Joints Honours Bsc in Maths and CS, Graduating in 2026) 
 
 🎤 French, English 
-
-💻 Java, Python, R, Golang, SQL, JavaScript, HTML, PHP, CSS, XML
-
->Mostly did:
->
->-> Android, Web dev, Data science and Algorithms class projects
-
-➗ Probability, Statistics, Linear algebra
-
-
-
-<br>
-
-
-🐍New Battlesnake player (You can find me [here](https://play.battlesnake.com/profile/doodoal#achievements) :D )
-
-
-
-<br>
 
 📬You can contact me at [yoffia@acm.org](mailto:yoffia@acm.org)
 
