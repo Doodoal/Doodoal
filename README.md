@@ -1,4 +1,4 @@
- I'm a Data person who also loves to build things :D
+ I'm a Data science student who loves building things :D
 
 -> Trying my hands at a bunch of different things right now.
 
