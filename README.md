@@ -2,7 +2,7 @@
 
 -> Trying my hands at a bunch of different things right now.
 
--> Mostly Data Science, ML, Product Design, SWE, Android and Web dev.
+-> Mostly Data Science, ML, Product Design, SWE, and Web dev.
 
 ***
 
