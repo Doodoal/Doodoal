@@ -2,7 +2,9 @@
 
 -> Trying my hands at a bunch of different things right now.
 
--> Mostly Data Science, ML, Product Design, SWE, and Web dev.
+-> Mostly AI/ML, Product Design, and Business.
+
+[Check out my master portfolio here!](https://opnay.notion.site/Noura-s-archive-3aed8180887546b8955572385ff261b6)
 
 ***
 
