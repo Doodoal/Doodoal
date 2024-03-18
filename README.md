@@ -4,7 +4,12 @@
 
 -> Mostly AI/ML, Product Design, and Business.
 
-[Check out my master portfolio here!](https://opnay.notion.site/Noura-s-archive-3aed8180887546b8955572385ff261b6)
+<p align="left" >
+  <a href="https://opnay.notion.site/Noura-s-archive-3aed8180887546b8955572385ff261b6">
+    <img src="https://github.com/Doodoal/Doodoal/assets/72891698/367b208b-533d-4445-ac45-06b82f209bc8" alt="Link to Master Portfolio" height="150" href="https://opnay.notion.site/Noura-s-archive-3aed8180887546b8955572385ff261b6" >
+  </a>
+</p>
+
 
 ***
 
