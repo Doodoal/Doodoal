@@ -7,7 +7,7 @@
 <br>
 <p align="left" >
   <a href="https://opnay.notion.site/Noura-s-archive-3aed8180887546b8955572385ff261b6">
-    <img src="https://github.com/Doodoal/Doodoal/assets/72891698/b12fa3e8-000b-4f21-accf-bab62950dd43" alt="Link to Master Portfolio" height="100" href="https://opnay.notion.site/Noura-s-archive-3aed8180887546b8955572385ff261b6" >
+    <img src="https://github.com/Doodoal/Doodoal/assets/72891698/dfd56474-9217-46ca-ac98-1ba46ecd5faa" alt="Link to Master Portfolio" height="100" href="https://opnay.notion.site/Noura-s-archive-3aed8180887546b8955572385ff261b6" >
   </a>
 </p>
 
