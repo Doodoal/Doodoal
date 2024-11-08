@@ -2,7 +2,7 @@
 
 -> Trying my hands at a bunch of different things right now.
 
--> Mostly AI/ML, Product Design, and Business.
+-> Mostly SWE, Product Design, and Product Management.
 <br>
 <br>
 <p align="left" >
