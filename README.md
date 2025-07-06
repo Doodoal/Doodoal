@@ -15,7 +15,7 @@
 
 ***
 
-📓 5th Year Data Science student (Joints Honours Bsc in Maths and CS, Graduating in 2026) 
+📓Joints Honours Bsc in Maths and CS, Graduating in 2026
 
 🎤 French, English 
 
