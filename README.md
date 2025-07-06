@@ -18,6 +18,3 @@
 📓Joints Honours Bsc in Maths and CS, Graduating in 2026
 
 🎤 French, English 
-
-📬You can contact me at [yoffia@acm.org](mailto:yoffia@acm.org)
-
