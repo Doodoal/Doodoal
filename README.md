@@ -10,7 +10,7 @@
 
 - But now I'm also adding ML Projects to my collection.
 
-- And so, I'm a proud member of the C.L.O.W.N. Lab!
+- And I'm a proud member of the [C.L.O.W.N. Lab](https://github.com/C-L-O-W-N-Lab)!
 
 
 <br>
